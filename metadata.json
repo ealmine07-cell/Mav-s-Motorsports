@@ -1,0 +1,7 @@
+{
+  "name": "Mav's Motorsports",
+  "description": "A professional, rugged, and modern website for Mav's Motorsports, a premier motorcycle shop in Ridgecrest, CA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
